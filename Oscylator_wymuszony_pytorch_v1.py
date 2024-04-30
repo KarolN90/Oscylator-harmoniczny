@@ -29,7 +29,7 @@ v_0 = 0
 # Rozważany przedział czasu 0 - T
 T = 20
 # podział przedziału czasowego
-n = 800   
+n = 300   
 
 # Ilosć iteracji
 max_iter = 20000  
