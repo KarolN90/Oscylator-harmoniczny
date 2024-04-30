@@ -25,7 +25,7 @@ omega_f = 2  # Częstość kołowa siły wymuszającej
 
 # Warunki początkowe
 y_0 = 1     
-v_0 = 4
+v_0 = 0
 
 # Rozważany przedział czasu 0 - T
 T = 30
